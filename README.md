@@ -5,4 +5,5 @@ By scraping tables from Wikipedia publicly available data on wildfires and weath
 
 This data can be used to train a k-means cluster model that will partition the observed wildfires. 
 
-The steps to performing this analysis can be viewed in the Jupyter notebook [here](https://nbviewer.jupyter.org/github/dwill023/Unsupervised-machine-learning/blob/main/Predicting%20California%20wildfires%20using%20k-means%20clustering.ipynb).
+The steps to performing this analysis can be viewed in the Jupyter notebook [here](https://nbviewer.org/github/dwill023/Unsupervised-machine-learning/blob/main/Predicting%20California%20wildfires%20using%20k-means%20clustering.ipynb).
+
